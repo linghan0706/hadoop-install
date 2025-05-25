@@ -194,4 +194,3 @@ bash test/hadoop-test.sh -a -s 100
 - 如果只有一个从节点，可以不指定 `--slave2-ip` 参数
 - 所有管理和测试脚本需要以 hadoop 用户身份运行
 - 配置脚本需要以 root 用户或使用 sudo 运行
-- 详细的集群部署指南请参考 `docs/Hadoop_Multi_Node_Cluster_Setup_Guide.markdown` 
